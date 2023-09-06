@@ -207,6 +207,7 @@ a {
 }
 
 .hp_2 {
+    padding-top: 6px;
     display: flex;
     justify-content: center;
     color: #9F9F9F;
@@ -215,4 +216,85 @@ a {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+.products {
+    padding-top: 96px;
+    padding-bottom: 60px;
+    padding-left: 230px;
+    padding-right: 230px;
+
+}
+
+.block {
+    background-color: #F8F8F8;
+}
+
+.line1 {
+    padding-top: 48px;
+    display: flex;
+}
+
+.line2 {
+    padding-top: 25px;
+    display: flex;
+}
+
+.text_block_1 {
+    padding-top: 24px;
+    padding-left: 16px;
+    color: #000;
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text_block_2 {
+    padding-top: 16px;
+    padding-left: 16px;
+    color: #5D5D5D;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.text_block_3 {
+    padding-top: 16px;
+    padding-left: 16px;
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button {
+    width: 212px;
+    height: 48px;
+    border-color: #FF6A6A;
+    margin-top: 48px;
+    margin-bottom: 60px;
+    margin-left: 469px;
+}
+
+.text_button {
+    color: #F26376;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.block {
+    width: 360px;
+    height: 581px;
+    flex-shrink: 0;
+    background-color: #F8F8F8;
+    margin-right: 30px;
 }
